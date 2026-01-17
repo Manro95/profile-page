@@ -91,7 +91,6 @@ h2 {
     min-width: 150px;
     min-height: 150px;
 }
-}
 .footer {
     width: 100%;
     background-color: rgb(32, 32, 32);
@@ -158,8 +157,5 @@ html, body {
     }
     .footer-p {
         font-size: 1.2rem;
-    }
-    h1 {
-        font-size: 3rem;
     }
 }
