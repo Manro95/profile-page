@@ -103,13 +103,6 @@ h2 {
     min-height: 150px;
 }
 
-.project-card img {
-    max-width: 100%;
-    max-height: 180px;
-    object-fit: contain;
-    margin-bottom: 1rem;
-}
-
 .footer {
     background-color: rgb(32, 32, 32);
     background-image:linear-gradient(90deg, #3a3d40 0%, #181719 100%);
@@ -158,6 +151,7 @@ h2 {
 
 .project-links {
     font-size: 1.6rem;
+    margin-bottom: 1.3rem;
 }
 
 .project-links a {
@@ -177,10 +171,23 @@ h2 {
     text-decoration: none;
 }
 
+.project-image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.project-image img {
+    height: auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
 @media (min-width: 901px) {
     .project-card img {
+        width: 80%;
+        max-width: 600px;
         max-height: 260px;
-        width: 95%;
     }
 }
 
