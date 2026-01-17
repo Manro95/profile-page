@@ -187,6 +187,7 @@ h2 {
     .project-card img {
         width: 80%;
         max-width: 600px;
+        min-height: 385px;
         max-height: 460px;
     }
 }
