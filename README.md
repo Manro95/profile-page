@@ -28,12 +28,6 @@ Font Awesome – social media icons
 ├── index.html
 ├── styles.css
 └── README.md
-🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/Manro95/your-repo-name.git
-2. Open locally
-
-Simply open index.html in your browser.
 
 🌐 Live Demo
 
